@@ -1,0 +1,3 @@
+resources:
+  - teleport.yaml
+  # - ingress.yaml

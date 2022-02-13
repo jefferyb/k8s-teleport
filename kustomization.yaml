@@ -1,0 +1,7 @@
+namespace: teleport-cluster
+
+bases:
+  - base
+
+resources:
+  - configmap.yaml
