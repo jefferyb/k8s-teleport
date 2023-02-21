@@ -183,7 +183,7 @@ spec:
     spec:
       containers:
       - name: "teleport"
-        image: "public.ecr.aws/gravitational/teleport:11"
+        image: "public.ecr.aws/gravitational/teleport:12"
         imagePullPolicy: Always
         args:
         - "--diag-addr=0.0.0.0:3000"
